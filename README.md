@@ -1,4 +1,4 @@
-# Cómo instalar WordPress con Nginx y Let's Encrypt SSL en Ubuntu 22.04 - HowtoForge
+# Cómo instalar WordPress con Nginx y Let's Encrypt SSL en Ubuntu 22.04
 WordPress es un sistema de gestión de contenidos gratuito y de código abierto que se utiliza principalmente para publicar blogs en Internet. Está diseñado para quienes no saben codificar. WordPress facilita la creación y el mantenimiento de sitios web y blogs. Debido a su popularidad, más de un tercio de los sitios web actuales funcionan con WordPress. Está escrito en PHP y utiliza MariaDB y MySQL como base de datos.
 
 En este tutorial, te mostraremos cómo instalar WordPress con Nginx y un certificado SSL gratuito de Let’s Encrypt en Ubuntu 22.04.
